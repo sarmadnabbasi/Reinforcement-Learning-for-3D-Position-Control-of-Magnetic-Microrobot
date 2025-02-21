@@ -1,5 +1,8 @@
 # **Autonomous 3D positional control of a magnetic microrobot using reinforcement learning**
 
+Update: For Simulation Environment use the following link to download the .zip file
+[Google drive link](https://drive.google.com/drive/folders/1ECRgS_rKh0dllwAVznXgNTAulcNLylgY)
+
 ## **Important Note**
 For reproducibility in physical environment, as the code is directly linked to imaging system and Electromagnetic actuation system, it is not possible to run it as it is. However for simulation environment, the data in folder "Training_Simulation_Env" can be downloaded and code can be run on windows-based system using Python 3.8 for demonstration of learned simulation model and can be modified for training purposes (requirements.txt file in the folder for all the dependencies).
 Download the.zip files that are in the repository directly from the GitHub link. 
